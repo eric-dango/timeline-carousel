@@ -1,0 +1,35 @@
+{
+  "name": "timeline-carousel",
+  "version": "1.0.0",
+  "description": "A light weight timeline based carousel with minimal function.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eric-dango/timeline-carousel.git"
+  },
+  "keywords": [
+    "javascript",
+    "jQuery",
+    "timeline",
+    "carousel"
+  ],
+  "author": "xinyi dong <xinyi.dong@hotmail.com> (http://www.dangoeric.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eric-dango/timeline-carousel/issues"
+  },
+  "homepage": "https://github.com/eric-dango/timeline-carousel",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-load-plugins": "~0.9.0",
+    "rimraf": "~2.3.2",
+    "gulp-uglify": "~1.1.0",
+    "gulp-jshint": "*"
+  }
+}
